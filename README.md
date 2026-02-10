@@ -8,9 +8,16 @@
 
   <div align="center">
     <p>
-      💡 Passionate about <b>tech</b>, <b>creativity</b>, and <b>storytelling</b><br>
-      ✨ Always exploring ways to bring ideas to life.
+      Heyyy! 😄 I’m a student who’s super into <b>art</b>, <b>design</b>, and all things creative.<br>
+      ✨ Honestly, I’m pretty good at bringing ideas to life and love making things look cool or interesting.  
+      🎨 If it’s artsy, colorful, or has a story, I’m 100% in.
     </p>
+<img 
+  src="https://media1.tenor.com/m/yEG23sxXIVQAAAAC/shrek-shrek-meme.gif" 
+  alt="Shrek Shrek Meme" 
+  style="max-width:100%; height:auto;">
+
+    
   </div>
 
   <hr>
