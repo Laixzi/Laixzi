@@ -1,50 +1,102 @@
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" />
-
+<!-- TOP GIF STRIP -->
 <p align="center">
-  <img 
-    src="assets/header.gif"
-    alt="header gif"
-    width="400"
-  />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="900" />
+
+
 </p>
 
-<h1 align="center" style="color:#00ff9c; font-family: monospace;">
-  Hi 👋, I'm Juliana Delos Reyes
-</h1>
+<br>
 
-<h3 align="center" style="color:#7cffc4; font-family: monospace;">
-  Creative • IT Student • Designer
-</h3>
+<!-- MAIN BOARD -->
+<div align="center" style="
+  border:1.5px solid #dcdcdc;
+  border-radius:14px;
+  padding:28px;
+  max-width:700px;
+  margin:auto;
+">
 
-<p align="center" style="color:#9effd4; font-family: monospace;">
-  blending creativity with logic
-</p>
+  <!-- HEADER GIF -->
+  <img src="assets/header.gif" width="420" alt="header gif"/>
 
-<hr style="border:1px solid #00ff9c; opacity:0.4;">
+  <br><br>
 
-<h3 style="color:#00ff9c; font-family: monospace;">
-  > connect_with_me
-</h3>
+  <!-- NAME -->
+  <h1 style="
+    font-family: 'Segoe UI', sans-serif;
+    letter-spacing:1px;
+    margin-bottom:6px;
+  ">
+    Juliana Delos Reyes
+  </h1>
 
-<p style="color:#9effd4; font-family: monospace;">
-  <!-- add your links here -->
-</p>
+  <!-- ROLE -->
+  <p style="
+    font-family: 'Segoe UI', sans-serif;
+    color:#6b7280;
+    margin-top:0;
+    font-size:16px;
+  ">
+    Creative • IT Student • Designer
+  </p>
 
-<hr style="border:1px dashed #00ff9c; opacity:0.3;">
+  <!-- TAGLINE -->
+  <p style="
+    font-family: 'Segoe UI', sans-serif;
+    color:#9ca3af;
+    font-size:14px;
+  ">
+    blending creativity with logic
+  </p>
 
-<h3 style="color:#00ff9c; font-family: monospace;">
-  > languages_and_tools
-</h3>
+  <hr style="width:60%; border:0.5px solid #e5e7eb; margin:24px auto;">
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
-</p>
+  <!-- CONNECT -->
+  <h3 style="
+    font-family: 'Segoe UI', sans-serif;
+    font-weight:600;
+    letter-spacing:1px;
+  ">
+    Connect With Me
+  </h3>
 
-<hr style="border:1px solid #00ff9c; opacity:0.2;">
+  <p style="
+    font-family: 'Segoe UI', sans-serif;
+    color:#6b7280;
+    font-size:14px;
+  ">
+    <!-- add links here -->
+  </p>
 
-<p align="center" style="color:#5cffb2; font-family: monospace; font-size: 12px;">
-  █ system_status: learning ▓▓▓▓▓▓▓░░
-</p>
+  <hr style="width:60%; border:0.5px dashed #e5e7eb; margin:24px auto;">
+
+  <!-- TOOLS -->
+  <h3 style="
+    font-family: 'Segoe UI', sans-serif;
+    font-weight:600;
+    letter-spacing:1px;
+  ">
+    Languages & Tools
+  </h3>
+
+  <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36"/>
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="32"/>
+  </p>
+
+  <hr style="width:60%; border:0.5px solid #e5e7eb; margin:24px auto;">
+
+  <!-- STATUS -->
+  <p style="
+    font-family: monospace;
+    font-size:12px;
+    color:#6b7280;
+  ">
+    system_status: learning ▓▓▓▓▓▓▓░░
+  </p>
+
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="900" />
+
+</div>
