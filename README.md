@@ -94,3 +94,5 @@
   </a>
 </p>
 
+
+<img src="https://raw.githubusercontent.com/Ruan-Portella/ruan-portella/output/github-contribution-grid-snake.svg" alt="red" style="max-width: 100%;">
