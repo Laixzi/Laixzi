@@ -100,3 +100,12 @@
 
 
 <img src="https://raw.githubusercontent.com/Ruan-Portella/ruan-portella/output/github-contribution-grid-snake.svg" alt="red" style="max-width: 100%;">
+
+
+
+<p align="center">
+  <img 
+    src="https://github-contributor-stats.vercel.app/api?username=Laixzi&limit=5&theme=transparent&title_color=00FFAA&text_color=2E8B57&icon_color=00C897&combine_all_yearly_contributions=true"
+    alt="Laixzi Contributor Stats"
+    style="max-width: 100%;">
+</p>
