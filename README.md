@@ -1,6 +1,6 @@
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
 
-<!-- 🌊 MAIN HEADER -->
+
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00ffff,100:00ff00&text=Hi,%20I'm%20Yana&fontColor=ffffff&desc=From%20BSIT-2C&descAlign=50&fontAlign=50&fontAlignY=40&animation=fadeIn"
@@ -8,7 +8,7 @@
     alt="header"/>
 </p>
 
-<!-- ✨ SUB INTRO TYPING -->
+
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2800&pause=1000&color=00FFAA&center=true&vCenter=true&width=550&lines=Welcome!;I'm+UI%2FUX+Designer+Wanna+Be"
@@ -53,9 +53,6 @@
     </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40">
-    </a>
-    <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40">
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
