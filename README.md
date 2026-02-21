@@ -1,14 +1,19 @@
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
 
- <p align="center">
-    <a target="_blank" rel="noopener noreferrer" href="#">
-      <img 
-        src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00ffff,100:00ff00&text=Hi,%20I'm%20Yana&fontColor=ffffff&desc=From%20BSIT-2C&descAlign=50&fontAlign=50&fontAlignY=45&animation=twinkle"
-        width="100%"
-        alt="header"
-        style="max-width:100%; height:auto;">
-    </a>
-  </p>
+<!-- 🌊 MAIN HEADER -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00ffff,100:00ff00&text=Hi,%20I'm%20Yana&fontColor=ffffff&desc=From%20BSIT-2C&descAlign=50&fontAlign=50&fontAlignY=40&animation=fadeIn"
+    width="100%"
+    alt="header"/>
+</p>
+
+<!-- ✨ SUB INTRO TYPING -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2800&pause=1000&color=00FFAA&center=true&vCenter=true&width=550&lines=Welcome!;I'm+UI%2FUX+Designer+Wanna+Be"
+    alt="typing intro"/>
+</p>
 
   <div align="center">
     <p>
@@ -60,12 +65,32 @@
     </a>
   </p>
 
-  <div align="center">
-    <img 
-      src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00ffff,100:00ff00&animation=twinkle"
-      width="100%"
-      alt="footer"
-      style="max-width:100%; height:auto;">
-  </div>
+<img align="center" 
+     src="https://github-readme-streak-stats.herokuapp.com/?user=Laixzi&theme=transparent&background=0:AAF0D1,100:98FF98&ring=00C897&fire=00E676&currStreakLabel=00C897&sideLabels=2E8B57&dates=3CB371&sideNums=2E8B57&currStreakNum=00C897&border=98FF98&animation=fadeIn" 
+     alt="Laixzi" 
+     style="max-width: 100%;">
 
+ <div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00ffff,100:00ff00&animation=twinkle"
+    alt="footer"
+    style="max-width:900px; width:100%; height:auto;">
+</div>
 </article>
+
+<p align="center">
+  <strong style="color:#00FFAA; font-size:16px;">You can contact me at:</strong>
+</p>
+
+<p align="center">
+  <!-- Facebook -->
+  <a href="https://web.facebook.com/Velnian" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" style="margin:5px;" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:julianavenice@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?logo=Gmail&logoColor=white" alt="Gmail" style="margin:5px;" />
+  </a>
+</p>
+
