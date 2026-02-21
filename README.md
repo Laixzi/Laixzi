@@ -15,6 +15,16 @@
     alt="typing intro"/>
 </p>
 
+<div align="center">
+
+  <img 
+    src="https://komarev.com/ghpvc/?username=Laixzi&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge" 
+    alt="Profile Views"
+    height="80"
+  />
+
+</div>
+
   <div align="center">
     <p>
       Heyy 😄 I’m a student who’s really into art, design, and creative stuff.<br>
